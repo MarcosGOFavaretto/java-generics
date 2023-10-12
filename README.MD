@@ -2,15 +2,19 @@
 
 1. Introduction.
 
-2. Generic methods.
+Java Generics is a feature to allow developers to create more sofisticated and generics applications and APIs.
 
-3. Bounds.
+2. Generic types.
 
-4. Multiple Bounds.
+3. Generic methods.
 
-5. Wildcards.
+4. Bounds.
 
-6. Type erase and primitive types.
+5. Multiple Bounds.
+
+6. Wildcards.
+
+7. Type erase and primitive types.
 
 # References
 - [DevMedia](https://www.devmedia.com.br/usando-generics-em-java/28981).
